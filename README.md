@@ -1,2 +1,2 @@
 <h1> 🌳 Visit Website:</h1>
-<a>https://moonspruc.github.io/BelleCafe/</a>
+<a href="https://moonspruc.github.io/BelleCafe/">Click here</a>
